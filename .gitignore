@@ -1,1 +1,4 @@
 *.pyc
+build
+cryptowatch.egg-info
+dist
